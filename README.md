@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/861dced5-6b25-446e-bd16-73dc676e1d0a)
+![image](https://github.com/user-attachments/assets/d2bb32ea-3ef9-4ee1-9ffe-21f354e55a27)
 
 # TekRevol Financial Projections Dashboard
 ## Project Overview
