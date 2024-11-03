@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/861dced5-6b25-446e-bd16-73dc676e1d0a)
+
 # TekRevol Financial Projections Dashboard
 ## Project Overview
 This Power BI dashboard was created to support TekRevol's management team in understanding
